@@ -8,7 +8,7 @@ permalink: /about/
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
 </script>
 
-I'm a software engineer, programmer with a focus in AI and Machine learning. A loved theorem of mine is the Bayes Theorem.
+Software engineer, programmer with a focus in AI and Machine learning. His number one loved theorem is the Bayes Theorem.
 
 ![img](https://upload.wikimedia.org/wikipedia/commons/1/18/Bayes%27_Theorem_MMB_01.jpg)
 
