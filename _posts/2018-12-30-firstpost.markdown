@@ -8,10 +8,7 @@ title:  "Driven by Compression Progress!"
 
 
 
-Currently reading the paper Driven by Compression Progress:
-A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes
-
-[source](https://arxiv.org/abs/0812.4360)
+Currently reading the paper [Driven by Compression Progress: A Simple Principle Explains Essential Aspects of Subjective Beauty, Novelty, Surprise, Interestingness, Attention, Curiosity, Creativity, Art, Science, Music, Jokes](https://arxiv.org/abs/0812.4360)
 
 And I read in the introduction: Curiosity is the desire to create or discover more non-random, non arbitrary, regular data that is novel and surprising. 
 However, in the sense that it allows for "compression progress" because the regularity was not yet know.
