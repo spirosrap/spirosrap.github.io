@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Progress vs stagnation"
+---
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+
+Sometimes it is difficult to tell when you're making progress. Staying busy is not always a good
+indicator. Also, burning yourself out isn't a good strategy. I think that a good metric is enjoying what you're 
+doing, or at least do something so that you can enjoy doing something else in the future.
+
+I believe you have got to always ask yourself: 
+
+**Am I making progress or I am I just stuck in repetition?**
+
+```
+while(true):
+  keep doing this for ever
+  until god pulls the plug
+```
