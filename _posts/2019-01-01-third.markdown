@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "First day of the year"
+---
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+It's the first day of the year and I'm thinking all of the accomplishments I made. But all of them pale in comparision with the possible other accomplishments I could have made or I can still make in the future. Why?
+
+How did every one of us score in the grand scheme of life? Can we still make progress? And if yes, what sacrifices does it take? How many are we willing to make to increase our f1 score? $$\mathrm{f1} = \frac{2 \cdot precision\cdot recall}{precision+ recall}$$
+
