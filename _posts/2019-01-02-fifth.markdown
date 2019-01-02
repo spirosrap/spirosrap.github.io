@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Theories of everything"
+---
+
+<script type="text/javascript" async
+  src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
+"A long time ago, the **Great Programmer** wrote a program that runs all possible universes on His Big Computer." ([https://arxiv.org/pdf/quant-ph/9904050.pdf](https://arxiv.org/pdf/quant-ph/9904050.pdf))
+
+The Great Programmer pushed the "run" button and said: "Let there be light".
+
