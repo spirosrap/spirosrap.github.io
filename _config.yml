@@ -14,13 +14,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Driven by simplicity
-email: spirosraptis [at] protonmail [dt] com
+email: reinforceartopen [at] gmail [dt] com
 description: >- # this means to ignore newlines until "baseurl:"
   Musings of a Software developer living on the planet of fierce competition, ongoing insanity, healing love and destructive evil.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: spirosrap
-github_username:  spirosrap
 
 # Build settings
 markdown: kramdown
