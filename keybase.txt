@@ -1,0 +1,60 @@
+spirosrap
+Spiros Raptis
+Programmer
+Greece
+==================================================================
+https://keybase.io/spirosrap
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://spirosrap.github.io
+  * I am spirosrap (https://keybase.io/spirosrap) on keybase.
+  * I have a public key ASBiygZN7Sr-91pyg6FVIc2hSest1D-2Fxj1zr0Qz9TocQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101f671f266940bc29b1c4e815a730c4b958f6f9d5bc1109aacdfa4d3d33c98123f0a",
+      "host": "keybase.io",
+      "kid": "012062ca064ded2afef75a7283a15521cda149eb2dd43fb61718f5cebd10cfd4e8710a",
+      "uid": "303018cace9657ac8023b64deacbd619",
+      "username": "spirosrap"
+    },
+    "merkle_root": {
+      "ctime": 1569578338,
+      "hash": "58e64b4fb2bbc413fdfaffd8cbf37eba6028089f0becede5959bf1f14e9415a4cd6e588081e80b13d1246a03d458e77465c8060926d5ef4e62599c53ec64e873",
+      "hash_meta": "4aadf05e71a6f4f529017c2054aed0a66d538c7a8d4367381055bbd9e4ce71a3",
+      "seqno": 7766618
+    },
+    "service": {
+      "entropy": "bBuka3RT0C0m5WEBPyJHL00T",
+      "hostname": "spirosrap.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.5.0"
+  },
+  "ctime": 1569578366,
+  "expire_in": 504576000,
+  "prev": "ecfb2aa27e455fa019038fb1bfd8f828e60b12bc8e706a330aee41c7997e210b",
+  "seqno": 57,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgYsoGTe0q/vdacoOhVSHNoUnrLdQ/thcY9c69EM/U6HEKp3BheWxvYWTESpcCOcQg7Psqon5FX6AZA4+xv9j4KOYLEryOcGozCu5Bx5l+IQvEIKTVF/xDpuVdCZ1oY2PQbKxY3QHFsClXACSutZ/itYd5AgHCo3NpZ8RAf9/jAAA7t1ZA+iwftkURV5GmobVh2MJ5RKgUKhVtZfftlYISKDViIZydgM+Ia1lnlIlGBn//CYghypzSfKriD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMv9NUIEAxq0dIgRQ6nb6VDBLTeGB+b8O2cSE/L60gXso3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/spirosrap
+
+==================================================================
